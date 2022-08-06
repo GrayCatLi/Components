@@ -1,3 +1,3 @@
-# Demos
+# Components
 
-纯html、css、JavaScript实现的一些有趣的效果
+使用HTML、CSS、JavaScript实现的一些有趣且炫酷的组件
